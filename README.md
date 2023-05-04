@@ -22,4 +22,4 @@ you can edit all of the URLs to your desired, starting on line **44** in ```inde
 i think you get it, starting on line **44** you can change the names of the categories etc. etc. i believe you're not dumb and understand
 
 # Screenshot
-![image](https://user-images.githubusercontent.com/76164598/170824479-5918fe82-18df-4549-8b20-c2b1595a27d0.png)
+![image](https://user-images.githubusercontent.com/8884041/236304336-ee2239d1-a2da-4195-84c3-7f24d3e4dafb.png)
