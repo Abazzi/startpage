@@ -10,7 +10,7 @@ My startpage, edited from github.com/kencx
 # Customization
 
 ### Image(s)
-i have included a few vaporwave/retro styled gifs in this repo, you can edit it on the line <b>22</b> in the index.html the ```src="clouds.gif"``` to something like ```src="plane.gif"``` or your own image/gif
+The only image is a commission I got from [Farel Dalrymple](https://www.patreon.com/fareldal/posts)
 
 ### URLs
 you can edit all of the URLs to your desired, starting on line **44** in ```index.html```
