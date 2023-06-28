@@ -23,3 +23,6 @@ i think you get it, starting on line **44** you can change the names of the cate
 
 # Screenshot
 ![image](https://user-images.githubusercontent.com/8884041/236304336-ee2239d1-a2da-4195-84c3-7f24d3e4dafb.png)
+
+# Colour Scheme
+(Coolers)[https://coolors.co/ffa770-54494b-c7efcf-eec8e0-1d1726]
